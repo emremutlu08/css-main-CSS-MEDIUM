@@ -9,7 +9,7 @@
 ## https://natours.netlify.app/
 ## https://nexter.netlify.app/
 ## https://trillo.netlify.app/
-## http://www.omnifood.org/
+## https://iwonawo.github.io/Omnifood/
 
 # What did I learn
 
